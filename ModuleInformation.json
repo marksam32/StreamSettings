@@ -26247,6 +26247,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Twisty Terminals",
+    "moduleID": "twistyTerminals",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} <A-D><1-4> <1-4> [Selects the terminal at the specified coordinate a certain number of times] | Commands can be chained using semicolons",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Two Bits",
     "moduleID": "TwoBits",
     "scoreStringOverride": false,
