@@ -1,13 +1,11 @@
 {
   "DisabledList": [
-    "kataMinecraftSurvival",
-    "eightTilesPanic",
-    "KritGrandPrix",
     "PressX",
     "masherTheBottun",
     "antimatterDimensions",
-    "FourtyTwo",
-    "FiveZeroOne"
+    "Rules",
+    "undertunneling",
+    "xelDcipher"
   ],
   "Operation": 1
 }
