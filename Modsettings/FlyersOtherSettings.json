@@ -11,6 +11,7 @@
   "SevenNoTPRecapping": false,
   "SimonSemibossDynamicScorePerFlash": 0.15,
   "SimonSemibossMaxFlashes": 40,
+  "LPDisableFlickerAnim": true,
   "LPPEnableLabeledPriorities": true,
   "LPPEnableUnlabeledPriorities": true,
   "LPPEnableRelabeledPriorities": true,
