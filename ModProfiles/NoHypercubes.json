@@ -1,7 +1,8 @@
 {
   "DisabledList": [
     "TheHypercubeModule",
-    "TheUltracubeModule"
+    "TheUltracubeModule",
+	"HypermatchModule"
   ],
   "Operation": 1
 }

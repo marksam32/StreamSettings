@@ -10,7 +10,12 @@
     "blackCipher",
     "grayCipher",
     "whiteCipher",
-    "UnownCipher",
+    "brownCipher",
+	"coralCipher",
+	"creamCipher",
+	"crimsonCipher",
+	"magentaCipher",
+	"maroonCipher",
     "ultimateCipher"
   ],
   "Operation": 1
