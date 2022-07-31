@@ -1,11 +1,12 @@
 {
   "DisabledList": [
-    "PressX",
     "masherTheBottun",
     "antimatterDimensions",
     "Rules",
     "xelDcipher",
-    "symbolicHexabuttons"
+    "symbolicHexabuttons",
+    "cruelWordSearchModule",
+    "memorysShadow"
   ],
   "Operation": 1
 }

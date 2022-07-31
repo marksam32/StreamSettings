@@ -18,8 +18,12 @@
   "EnableInteractiveMode": false,
   "EnableAutomaticEdgework": true,
   "EnableEdgeworkCommand": false,
+  "EnableBossAutoViewPin": true,
   "EnableAutomaticCameraWall": true,
   "EnableEdgeworkCameras": true,
+  "EnableModuleCameraLights": true,
+  "ModuleCameraLightIntensity": 0.5,
+  "EnableLastModuleZoom": true,
   "RepositoryUrl": "https://ktane.timwi.de/",
   "AnalyzerUrl": "https://ktane.timwi.de/More/Logfile%20Analyzer.html",
   "EnableModeratorsCommand": true,
@@ -394,6 +398,25 @@
       "Enabled": true,
       "Hidden": false
     },
+    "fair+modneedy": {
+      "DisplayName": "Fair + Mod Needy",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 1.0
+        },
+        {
+          "Definition": "ALL_NEEDY, MODS",
+          "Weight": 0.0,
+          "Reward": 20,
+          "Time": 0
+        }
+      ],
+      "MinModules": 2,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
     "fair+needy": {
       "DisplayName": "Fair + Needy",
       "Pools": [
@@ -406,6 +429,82 @@
           "Weight": 0.0,
           "Reward": 20,
           "Time": 0
+        }
+      ],
+      "MinModules": 2,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "fair+2needies": {
+      "DisplayName": "Fair + 2 Needies",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 1.0
+        },
+        {
+          "Definition": "ALL_NEEDY",
+          "Weight": 0.0,
+          "Reward": 20,
+          "Time": 0
+        },
+        {
+          "Definition": "ALL_NEEDY",
+          "Weight": 0.0,
+          "Reward": 20,
+          "Time": 0
+        }
+      ],
+      "MinModules": 3,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "fair+needysometimes": {
+      "DisplayName": "Fair + Needy Sometimes",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 1.0
+        },
+        {
+          "Definition": "ALL_MODULES",
+          "Weight": 0.0
+        }
+      ],
+      "MinModules": 2,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "fair+neediessometimes": {
+      "DisplayName": "Fair + Needies Sometimes",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.8
+        },
+        {
+          "Definition": "ALL_MODULES",
+          "Weight": 0.2
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "chaos": {
+      "DisplayName": "Chaos",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.0
+        },
+        {
+          "Definition": "ALL_MODULES",
+          "Weight": 1.0
         }
       ],
       "MinModules": 2,
@@ -772,5 +871,6 @@
   "GiveBonusStrikes": "{0} awarded {1} strikes by {2}",
   "UnsubmittableAnswerPenalty": "Sorry {0}, The answer for module {1} ({2}) couldn't be submitted! You lose {3} point{4}, please only submit correct answers.",
   "UnsupportedNeedyWarning": "Found an unsupported Needy Component. Disabling it.",
-  "TechSupportBlock": "@{1}, module {0} ({2}) has been interrupted by Tech Support and is completely inoperable."
+  "TechSupportBlock": "@{1}, module {0} ({2}) has been interrupted by Tech Support and is completely inoperable.",
+  "BackdoorHackingBlock": "@{1}, module {0} ({2}) is completely inoperable while you are being hacked."
 }
