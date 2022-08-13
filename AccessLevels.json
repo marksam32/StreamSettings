@@ -547,7 +547,7 @@
     "sineovex": "User",
     "krisjaafer": "User",
     "qt_da_best": "User",
-    "bakersdozenbagels": "User",
+    "bakersdozenbagels": "Banned",
     "stormyies": "User",
     "shotkaa": "User",
     "nexenti": "User",
@@ -1279,7 +1279,19 @@
     "glatier8171": "User",
     "kagasuru": "User",
     "whyamiherethough": "User",
-    "raw_chameleon": "User"
+    "raw_chameleon": "User",
+    "neil3346": "User",
+    "daveygamingttv": "User",
+    "nicolegaiao11": "User",
+    "royg2003": "User",
+    "marayzex": "User",
+    "hi_itsxanderman": "User",
+    "marioxturn": "User",
+    "realgamygamer": "User",
+    "klenderchannel": "User",
+    "royg2008": "User",
+    "happythetomato": "User",
+    "mrb23211": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1458,6 +1470,11 @@
       "BanExpiry": "Infinity"
     },
     "danielstigman315": {
+      "BannedBy": "marksam32",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "bakersdozenbagels": {
       "BannedBy": "marksam32",
       "BannedReason": null,
       "BanExpiry": "Infinity"
