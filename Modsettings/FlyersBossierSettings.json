@@ -1,0 +1,8 @@
+{
+  "UseAuthorDynamicScoring": true,
+  "SGTExhibitionMode": false,
+  "SGTMaxStagesAhead": 15,
+  "SGTMaxStagesBehind": 5,
+  "PPUseAlternativeGen": false,
+  "PPPointsPerActivation": 2
+}
