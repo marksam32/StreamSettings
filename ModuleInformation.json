@@ -4424,7 +4424,7 @@
     "helpText": "!{0} <a-h><1-8> | Based on chess coordinates, where a-h represent left-to-right and 1-8 represent down-to-up. | Example: !{0} d4",
     "manualCodeOverride": false,
     "manualCode": null,
-    "statusLightPosition": "Default",
+    "statusLightPosition": "Center",
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
