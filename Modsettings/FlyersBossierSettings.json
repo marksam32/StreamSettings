@@ -1,5 +1,8 @@
 {
   "UseAuthorDynamicScoring": true,
+  "ECEnableExperimentalStrikeRedirect": false,
+  "ECExhibitionMode": false,
+  "ECDynamicStageGen": true,
   "SGTExhibitionMode": false,
   "SGTMaxStagesAhead": 15,
   "SGTMaxStagesBehind": 5,
