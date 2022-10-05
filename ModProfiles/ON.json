@@ -1,7 +1,5 @@
 {
   "DisabledList": [
-    "antimatterDimensions",
-    "Rules",
     "xelDcipher",
     "symbolicHexabuttons",
     "GSTellMeWhy",
@@ -9,13 +7,8 @@
     "AAAAA",
     "explodingMittens",
     "SimonsSatire",
-    "stellar",
-    "simonsSwarmModule",
     "abstractSequences",
-    "enaCipher",
     "TDSDossierModifier",
-    "KimsGame",
-    "speedTest",
     "SpellingBuzzed"
   ],
   "Operation": 1
