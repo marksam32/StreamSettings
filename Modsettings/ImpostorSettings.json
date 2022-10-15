@@ -35,7 +35,13 @@
     "Disable Chord Qualities": false,
     "Disable Number Pad": false,
     "Disable Sea Shells": false,
-    "Disable Neutralization": false
+    "Disable Neutralization": false,
+    "Disable Cryptography": false,
+    "Disable Logic": false,
+    "Disable Only Connect": false,
+    "Disable Simon Sends": false,
+    "Disable The Gamepad": false,
+    "Disable The Screw": false
   },
   "note": null
 }

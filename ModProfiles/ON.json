@@ -1,15 +1,12 @@
 {
   "DisabledList": [
+    "BombIJAtModule",
     "xelDcipher",
-    "symbolicHexabuttons",
     "GSTellMeWhy",
-    "NandNs",
-    "AAAAA",
     "explodingMittens",
     "SimonsSatire",
-    "abstractSequences",
-    "TDSDossierModifier",
-    "SpellingBuzzed"
+    "cruelPip-Nado",
+    "abstractSequences"
   ],
   "Operation": 1
 }
