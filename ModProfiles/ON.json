@@ -1,12 +1,13 @@
 {
   "DisabledList": [
     "BombIJAtModule",
-    "xelDcipher",
     "GSTellMeWhy",
     "explodingMittens",
     "SimonsSatire",
-    "cruelPip-Nado",
-    "abstractSequences"
+    "abstractSequences",
+    "SCP079",
+    "plungerButton",
+    "characterSlots"
   ],
   "Operation": 1
 }
