@@ -25,7 +25,8 @@
     "NotKnob",
     "runeMatchI",
     "runeMatchIII",
-    "GSDoubleKnob"
+    "GSDoubleKnob",
+    "needyModuleAlarm"
   ],
   "Operation": 1
 }

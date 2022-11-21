@@ -723,7 +723,7 @@
     "flutterdash98": "User",
     "xnyandakunx": "User",
     "fluffgd": "User",
-    "m3times": "Banned",
+    "m3times": "User",
     "charlie9631": "User",
     "juelv": "User",
     "septacube": "User",
@@ -1351,7 +1351,11 @@
     "thefurkanzz": "User",
     "seifcarles978": "User",
     "_청성_": "User",
-    "natolikin": "User"
+    "natolikin": "User",
+    "ggiplay33": "User",
+    "thenukulardragon": "User",
+    "consssole": "User",
+    "cooperb743": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1516,11 +1520,6 @@
     },
     "kaoscola": {
       "BannedBy": "xmaster6726",
-      "BannedReason": null,
-      "BanExpiry": "Infinity"
-    },
-    "m3times": {
-      "BannedBy": "BigLittleOrMe",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     },

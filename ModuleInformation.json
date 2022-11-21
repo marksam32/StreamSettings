@@ -1959,6 +1959,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Base Off",
+    "moduleID": "BaseOffModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} <[a-z]*>' to press the location of the keys on the module on a QWERTY keyboard and submit the answer. '!{0} mute' before submitting (in a separate command) if you do not want to have the solve sound playing after solve.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Base-1",
     "moduleID": "base1",
     "scoreStringOverride": false,
@@ -2548,6 +2565,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Blank Card",
+    "moduleID": "blankCard",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} draw 1 2 4 [Draws lines starting at the first specified dot and then dragging to all other specified dots in the order given. Dots are 1-4 in reading order.] | !{0} clear [Presses the clear button.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Blind Alley",
     "moduleID": "BlindAlleyModule",
     "scoreStringOverride": false,
@@ -2599,6 +2633,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Blind Math",
+    "moduleID": "blindMathModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <p1> (p2)... [Presses the blank button(s) in the specified position(s)] | !{0} press <submit/green/reset/red> [Presses the green \"S\" or red \"R\" button] | Valid positions are 1-15 in reading order",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Blind Maze",
     "moduleID": "BlindMaze",
     "scoreStringOverride": false,
@@ -2607,6 +2658,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Use !{0} nwse or !{0} uldr to move North West South East. Use !{0} reset to reset back to the start.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Blindfolded Rubik’s Clock",
+    "moduleID": "blindfoldedRubiksClockModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Change a pin with '!{0} tl'.  Rotate a gear with '!{0} br -3'.  Turn over clock with '!{0} t' (or 'turn'), reset with '!{0} r' (or 'reset').  Tilt the clock to see what pins are up/down with '!{0} tilt.  Commands can be combined with spaces '!{0} tl tr br -3 t'",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -6963,6 +7031,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Discharge Maze",
+    "moduleID": "dischargeMaze",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0) U/R/D/L # [Holds down the specified lever and releases it at the specified charge percentage] | !{0} activate",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -12151,6 +12236,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Keypad Sequence",
+    "moduleID": "keypadSeq",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press TL/TR/BL/BR [Presses key] | !{0} previous/next [Scrolls between panels]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Keywords",
     "moduleID": "xtrkeywords",
     "scoreStringOverride": false,
@@ -13221,6 +13323,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Logic Wheel",
+    "moduleID": "LogicWheelModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} regen [Regenerate new numbers] | !{0} submit [Press the submit button.] | !{0} submit 10101 [Submit 10101 as your answer]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Center",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Logical Buttons",
     "moduleID": "logicalButtonsModule",
     "scoreStringOverride": false,
@@ -13473,6 +13592,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "M.A.S.",
+    "moduleID": "needyModuleAlarm",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} Press 0-9 1-5 to push a number # times || !{0} Press Mode 1-3 to push the Mode button # times & clear the display",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -14532,6 +14668,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Memory Wires",
+    "moduleID": "memoryWires",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cut <1-30> [Cuts wires connected to the specified ports. Separate with spaces.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Memory's Shadow",
     "moduleID": "memorysShadow",
     "scoreStringOverride": false,
@@ -15401,6 +15554,23 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Morse Complication",
+    "moduleID": "compMorse",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cut <1-6> [Cuts wires in the specified positions. Chain with spaces.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -18081,6 +18251,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Password Buttons",
+    "moduleID": "passwordButtons",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} hold/release # at # [Interacts with the button at the specified position at the specified timer digit.] | !{0} cycle # [Cycles the letters corresponding to the specified unlocked button.] | !{0} toggle # [Presses each unlocked button the specified number of times.] | !{0} submit # at # [Taps the locked button at the specified position at the specified timer digit.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Password Destroyer",
     "moduleID": "pwDestroyer",
     "scoreStringOverride": false,
@@ -20550,6 +20737,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Robo-Scanner",
+    "moduleID": "roboScannerModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} move <up/left/right/down> <#> [Moves the scanner in the specified direction for '#' seconds] | !{0} speed [Changes the scanner speed setting] | !{0} submit [Presses the submission toggle button] | !{0} press <up/left/right/down> [Presses the arrow button in the specified direction] | Arrow presses can be chained and directions can be substituted with their first letter",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Robot Programming",
     "moduleID": "robotProgramming",
     "scoreStringOverride": false,
@@ -22533,6 +22737,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Simon Swivels",
+    "moduleID": "simonSwivels",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} set N/E/S/W [Sets knob position] | !{0} press <RYGB> [Inputs sequence]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Simon Swizzles",
     "moduleID": "simonSwizzles",
     "scoreStringOverride": false,
@@ -23639,6 +23860,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Starstruck",
+    "moduleID": "starstruck",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press [Presses the button] !{0} press xx [Presses the button when the seconds digits of the timer modulo 20 are xx] !{0} reset [Resets the module] !{0} <top/middle/bottom> <OL/IL/M/IR/OR> [Sets the top, middle, or bottom slider to the outer left, inner left, middle, inner right, or outer right positon] !{0} colorblind [Enables colorblind mode]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -28584,7 +28822,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} braille 125 [set Braille display] | !{0} cut blue [cut a wire] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up]",
+    "helpText": "!{0} 1x3 keys 012 [press keys on the 1×3 white keypad in that order] | !{0} digit 0 [set the digit display] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red switch 0 [toggle red switch to up]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
