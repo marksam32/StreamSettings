@@ -1,4 +1,6 @@
 {
+  "Phosphorescence -> CruelMode": false,
+  "Phosphorescence -> StreamDelay": 3,
   "TheOctadecayotton -> Dimensions": 9,
   "TheOctadecayotton -> Rotations": 3,
   "TheOctadecayotton -> Slowness": 8,
@@ -6,8 +8,6 @@
   "TheOctadecayotton -> InOutBounce": false,
   "TheOctadecayotton -> InOutElastic": false,
   "TheOctadecayotton -> StretchToFit": false,
-  "Phosphorescence -> CruelMode": false,
-  "Phosphorescence -> StreamDelay": 3,
   "hexOS -> DisableOctOS": false,
   "hexOS -> ForceOctOS": false,
   "hexOS -> FastStrike": false,
