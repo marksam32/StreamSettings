@@ -1,6 +1,6 @@
 {
   "UseAuthorDynamicScoring": true,
-  "ECEnableExperimentalStrikeRedirect": false,
+  "EnableExperimentalStrikeRedirect": false,
   "ECExhibitionMode": false,
   "ECDynamicStageGen": true,
   "SGTExhibitionMode": false,
