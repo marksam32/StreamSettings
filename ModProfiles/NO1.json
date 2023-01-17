@@ -10,6 +10,8 @@
     "KritCMDPrompt",
     "needyMrsBob",
     "simonSquawks",
+    "alphabeticOrder",
+    "simonsSequence",
     "aa",
     "triangleButtons",
     "EncryptedValuesModule",
@@ -26,7 +28,9 @@
     "runeMatchI",
     "runeMatchIII",
     "GSDoubleKnob",
-    "needyModuleAlarm"
+    "JermaJermaDream",
+    "needyModuleAlarm",
+    "AreaSplitNeedy"
   ],
   "Operation": 1
 }

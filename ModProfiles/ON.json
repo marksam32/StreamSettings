@@ -1,18 +1,15 @@
 {
   "DisabledList": [
-    "SimonsSatire",
-    "plungerButton",
     "Wendithapn",
     "SIHTS",
     "moduleManeuvers",
     "FaultySink",
     "TDSDossierModifier",
     "Geometry",
-    "multitracking",
     "forgetMazeNot",
-    "starstruck",
-    "theSamsung",
-	"matchRefereeing"
+    "WhatsOnSecond",
+    "twistyTerminals",
+    "EarthboundModule",
   ],
   "Operation": 1
 }
