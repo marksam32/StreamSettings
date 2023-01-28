@@ -10,6 +10,8 @@
     "lgndColorMatch",
     "KritFlipTheCoin",
     "lgndMorseIdentification",
+    "alphabeticOrder",
+    "simonsSequence",
     "needyPlunger",
     "draw",
     "speakEnglish",
@@ -60,7 +62,8 @@
     "blackModule",
     "TheMiniGame",
     "literallyDeaging",
-    "literallyLaughing"
+    "literallyLaughing",
+    "JermaJermaDream"
   ],
   "Operation": 1
 }
