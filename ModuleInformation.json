@@ -4958,6 +4958,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Color Pong",
+    "moduleID": "colorPong",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} l/r' to press left or right. '!{0} colorblind' to toggle colorblind mode.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Color Punch",
     "moduleID": "ColorPunch",
     "scoreStringOverride": false,
@@ -8339,6 +8356,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Épelle-moi Ça",
+    "moduleID": "epelleMoiCa",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "[!{0} play #] Presses the play button # times (# is optional). [!{0} submit <word>] Submits the specified word. Accented letter can be sent as it, or you can send (CC) instead of Ç, (OE) for Œ, (AE) for É, (GX) for grave X, (CX) for circumflex X and (UX) for umlaut X, X being a vowel (AEU only for graves). Submitted words must be in all caps, no spaces even between parantheses.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -18059,6 +18093,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "One Item One Meal",
+    "moduleID": "oneitemOneMeal",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit 526 at 5. [Set the number to 526, then submit when the last digit of the timer is a 5.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "One Links To All",
     "moduleID": "oneLinksToAllModule",
     "scoreStringOverride": false,
@@ -26389,6 +26440,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "The Generator",
+    "moduleID": "generator",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} Press Left/Right 1-3 to push a button on the left or right side || !{0} Submit to submit a stage || Read/Submit order for TP is L1-L2-L3-R1-R2-R3",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "The Giant's Drink",
     "moduleID": "giantsDrink",
     "scoreStringOverride": false,
@@ -27762,6 +27830,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Thermostat",
+    "moduleID": "thermostat",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} urdlm [Move up, right, down, or left, or toggle the mode.] | !{0} set [Press the set button.]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -29366,7 +29451,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up]",
+    "helpText": "!{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",

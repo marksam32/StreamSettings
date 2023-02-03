@@ -81,7 +81,8 @@
     "Omission",
     "ventilation",
     "inOrderModule",
-    "nobodysCodeModule"
+    "nobodysCodeModule",
+    "generator"
   ],
   "Operation": 1
 }
