@@ -27,6 +27,7 @@ Modsettings/RubiksCube-settings.txt
 Modsettings/TranslatedModules-settings.txt
 Modsettings/TweakSettings.json.bak
 Modsettings/Twitch Plays-settings.txt
+Modsettings/ObamaSettings.json
 Modsettings/twofactor-settings.txt
 Modsettings/VanillaRuleModifier-settings.txt
 Modsettings/WorldSettings.json
@@ -118,3 +119,4 @@ ModProfiles/Cookiepocalypse_trimmed_2.json
 Modsettings/ColourTalkSettings.json
 Modsettings/functionalMapping-settings.txt
 RepositoryBackup.json
+Modsettings/kugelblitz-settings.txt

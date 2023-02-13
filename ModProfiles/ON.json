@@ -1,12 +1,9 @@
 {
   "DisabledList": [
-    "Wendithapn",
     "SIHTS",
     "FaultySink",
     "TDSDossierModifier",
-    "twistyTerminals",
-    "Symbstructions",
-    "stroopsTest"
+    "Symbstructions"
   ],
   "Operation": 1
 }
