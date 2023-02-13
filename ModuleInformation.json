@@ -20387,7 +20387,7 @@
     "manualCode": null,
     "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false,
-	"additionalNeedyTime": 30.0
+    "additionalNeedyTime": 30.0
   },
   {
     "moduleDisplayName": "Rapid Buttons",
