@@ -1,9 +1,9 @@
 {
   "DisabledList": [
-    "SIHTS",
     "FaultySink",
     "TDSDossierModifier",
-    "Symbstructions"
+    "Symbstructions",
+    "GSEavesdropping"
   ],
   "Operation": 1
 }
