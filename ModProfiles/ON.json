@@ -1,19 +1,14 @@
 {
   "DisabledList": [
-    "FaultySink",
     "TDSDossierModifier",
     "Symbstructions",
     "GSEavesdropping",
-    "moduleManeuvers",
-    "cipherMachine",
     "doubleArrows",
-    "Tetramorse",
     "Patterns",
     "GSNineBall",
     "subblyJubbly",
     "xelLetterLayers",
-    "Wendithapn",
-    "countToSixtynineThousandFourHundredAndTwenty"
+    "flashingCube"
   ],
   "Operation": 1
 }
