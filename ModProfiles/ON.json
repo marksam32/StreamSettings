@@ -1,12 +1,10 @@
 {
   "DisabledList": [
-    "TDSDossierModifier",
     "Symbstructions",
     "GSEavesdropping",
     "xelLetterLayers",
     "flashingCube",
     "MentalMath",
-    "presidentialElections",
     "TrainingText"
   ],
   "Operation": 1
