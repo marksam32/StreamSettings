@@ -1391,7 +1391,26 @@
     "birkbeck045": "User",
     "zaakeil": "User",
     "al3yx": "User",
-    "definitely_maca": "User"
+    "definitely_maca": "User",
+    "ich_bins1337": "User",
+    "arleenmahjong": "User",
+    "declanmarc": "User",
+    "dtslayer9000": "User",
+    "dusky_frost": "User",
+    "firefly__fox": "User",
+    "aetherstar": "User",
+    "lolgamer16012009": "User",
+    "bombdestroyerlol": "User",
+    "thatsortaperson": "User",
+    "xkuro_cat": "User",
+    "bombmasher": "User",
+    "porta1337": "User",
+    "toear": "User",
+    "hollowbaba": "User",
+    "epiclolforever": "User",
+    "mayito1866": "User",
+    "cydron": "User",
+    "connor9810": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1571,6 +1590,11 @@
     },
     "bakersdozenbagels": {
       "BannedBy": "marksam32",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "connor9810": {
+      "BannedBy": "Strike_Kaboom",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
