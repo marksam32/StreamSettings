@@ -4,8 +4,17 @@
   "ECExhibitionMode": false,
   "ECDynamicStageGen": true,
   "SGTExhibitionMode": false,
+  "SGTPlayCamelliaTracks": false,
   "SGTMaxStagesAhead": 15,
   "SGTMaxStagesBehind": 5,
+  "SGTDynamicScalingRanges": [
+    2.0,
+    2.0,
+    2.0,
+    1.5,
+    1.0,
+    0.75
+  ],
   "PPUseAlternativeGen": false,
   "PPPointsPerActivation": 2
 }
