@@ -589,6 +589,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "A Massive Amount of Wires",
+    "moduleID": "aMassiveAmountOfWiresModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} cut <color> [Cuts a wire with the specified color] | Cuts can be chained using spaces | Valid colors are Red, Orange, Yellow, Lime, Green, Jade, Cyan, Azure, Blue, Violet, Magenta, roSe, White, grEy, and blacK",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "A Message",
     "moduleID": "AMessage",
     "scoreStringOverride": false,
@@ -9346,13 +9363,10 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} press <top/left/front/right/bottom> [Presses the specified face of the cube] | Faces can be simplified to their first letter | Presses can be chained using spaces, commas, or semicolons",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -9674,6 +9688,20 @@
     "validCommands": null,
     "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": true
+  },
+  {
+    "moduleDisplayName": "Forget Fractal",
+    "moduleID": "forget_fractal",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} screen/display [Presses the screen/display] | !{0} a2 g d3 ? [Sets the cell at A2 to green and D3 to ? (letter is column, number is row)]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
   },
   {
     "moduleDisplayName": "Forget Infinity",
@@ -12191,6 +12219,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Jackbox.TV",
+    "moduleID": "jackboxServerModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": true,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Jaden Smith Talk",
     "moduleID": "JadenSmithTalk",
     "scoreStringOverride": false,
@@ -13830,6 +13872,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Look, Look Away",
+    "moduleID": "lookLookAway",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} submit <U/UR/R/DR/D/DL/L/UL> [Highlights the module and then unhighlights the module when the specified direction is displayed] | !{0} toggle [Presses the toggle button] | Direction submissions can be chained using spaces, commas, or semicolons",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -16610,6 +16666,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Needy Crafting Table",
+    "moduleID": "needycrafting",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} <button> [Presses the specified button (can chain with spaces)] | Valid buttons are stick, wood, cobble, iron, gold, diamond, reset and 1-9 for the cells of the crafting grid in reading order",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Needy Flower Mash",
     "moduleID": "R4YNeedyFlowerMash",
     "scoreStringOverride": false,
@@ -16994,6 +17064,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Nokia Module",
+    "moduleID": "GL_nokiaModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} type <code> [Types in the specified code] | !{0} submit/send [Presses the green button] | !{0} clear/delete [Presses the red button]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -19010,6 +19094,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "perspective eggs",
+    "moduleID": "bigeggs",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <red/eggshell/green/blue/yellow> [Presses the egg with the specified color] | Colors can be simplified to their first letter | Presses can be chained using spaces, commas, or semicolons",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Perspective Pegs",
     "moduleID": "spwizPerspectivePegs",
     "scoreStringOverride": false,
@@ -19687,6 +19785,23 @@
     "CameraPinningAlwaysAllowed": true
   },
   {
+    "moduleDisplayName": "Polybius Square",
+    "moduleID": "PolybiusSquare",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press ABCDE [Press buttons with labels A, B, C, D, E.] | Command must contain 5 letters.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Polygons",
     "moduleID": "polygons",
     "scoreStringOverride": false,
@@ -19752,6 +19867,20 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Pong",
+    "moduleID": "NeedyPong",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -22189,6 +22318,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Setting Sail",
+    "moduleID": "SettingSail",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} press <#> [Presses that button in reading order]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Settlers of KTaNE",
     "moduleID": "SettlersOfKTaNE",
     "scoreStringOverride": false,
@@ -23936,6 +24082,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "SolveStrike",
+    "moduleID": "solveStrike",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} T or B or a sequence such as TTBB to press the top or bottom button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Sonic & Knuckles",
     "moduleID": "sonicKnuckles",
     "scoreStringOverride": false,
@@ -24558,6 +24721,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Starmessage",
+    "moduleID": "starmessage",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} .- inputs the morse code.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -28932,6 +29112,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "!{0} <A-D><1-4> <1-4> [Selects the terminal at the specified coordinate a certain number of times] | Commands can be chained using semicolons",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Twitter.com",
+    "moduleID": "twitter",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} <1-5> <##> [Presses button 1-5 from top to bottom when seconds digits are <##>.] or !{0} press [Presses the logo]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
