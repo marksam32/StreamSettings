@@ -2,11 +2,13 @@
   "DisabledList": [
     "Symbstructions",
     "GSEavesdropping",
-    "xelLetterLayers",
     "TrainingText",
     "UINpL",
     "GSNineBall",
-    "solveStrike"
+    "solveStrike",
+    "KritGrandPrix",
+    "NiftyNumber",
+    "forgetMazeNot"
   ],
   "Operation": 1
 }
