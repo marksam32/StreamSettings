@@ -1,6 +1,5 @@
 {
   "DisabledList": [
-    "Symbstructions",
     "GSEavesdropping",
     "TrainingText",
     "UINpL",
@@ -9,7 +8,8 @@
     "NiftyNumber",
     "forgetMazeNot",
     "passwordButtons",
-    "RailwayCargoLoading"
+    "RailwayCargoLoading",
+    "remotemath"
   ],
   "Operation": 1
 }
