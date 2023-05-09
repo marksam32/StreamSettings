@@ -16,7 +16,9 @@
 	"crimsonCipher",
 	"magentaCipher",
 	"maroonCipher",
-    "ultimateCipher"
+    "ultimateCipher",
+	"forestCipher",
+	"cornflowerCipher"
   ],
   "Operation": 1
 }
