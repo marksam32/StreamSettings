@@ -85,7 +85,8 @@
     "inOrderModule",
     "nobodysCodeModule",
     "generator",
-    "perspectiveStackingModule"
+    "perspectiveStackingModule",
+    "ReportingAnomalies"
   ],
   "Operation": 1
 }

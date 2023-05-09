@@ -256,7 +256,7 @@
     "NoScalar",
     "NoSCF",
     "NoSGT",
-	"NoSSens",
+    "NoSSens",
     "NoStores",
     "NoMineSwap",
     "NoSwd",

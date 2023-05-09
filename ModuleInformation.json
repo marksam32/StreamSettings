@@ -18,23 +18,6 @@
   },
   {
     "moduleDisplayName": "",
-    "moduleID": "theFidgetSpinner",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": null,
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
-    "validCommandsOverride": false,
-    "validCommands": null,
-    "DoesTheRightThing": true,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "",
     "moduleID": "Yoinkingmodule",
     "scoreStringOverride": false,
     "scoreString": null,
@@ -2290,6 +2273,23 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Use '!{0} submit bee horn' to submit the prefixes of the names. Use '!{0} left down' to flip the left page down. Use '!{0} submit to submit the current names. Make sure you include punctuation if there is any.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Bicolored Squares",
+    "moduleID": "BicoloredSquaresModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} A1 A2 A3 B3 [specify column as letter, then row as number] | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -4672,6 +4672,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Clockworks",
+    "moduleID": "clockworks",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "[!{0} play 0/1/s/zero/one/special/spe] to play either the 0, 1 or Special card. [!{0} colorblind] to toggle colorblind mode.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Clumsy Loopover",
     "moduleID": "clumsyLoopover",
     "scoreStringOverride": false,
@@ -5077,6 +5094,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Colored Cube",
+    "moduleID": "coloredCube",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} m/mid/middle to press the middle part of the cube at any time. !{0} m/mid/middle # to press the middle part of the cube at last digit of the timer being #. !{0} move u/b/r/d/f/l to move. Directions can be chained like so: !{0} move uurlf.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Colored Hexabuttons",
     "moduleID": "coloredHexabuttons",
     "scoreStringOverride": false,
@@ -5417,6 +5451,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Coloured Cylinder",
+    "moduleID": "colouredCylinder",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} press 1/2/3 to press the top/middle/bottom circular button. Commands can be chained using spaces. Use !{0} reset to press the center cylinder.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Combination Lock",
     "moduleID": "combinationLock",
     "scoreStringOverride": false,
@@ -5595,6 +5646,23 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Congkak",
+    "moduleID": "congkakMQEktane1",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} hole <#> [Chooses the hole in the specified position '#' from bottom-right to top-left (1-7)], !{0} highlight <#> [Highlights the hole in specified position '#' from bottom-right going clockwise around the board disregarding big holes (1-15)], !{0} cycle [Highlights each hole from bottom-right going clockwise disregarding big holes]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -6190,6 +6258,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Cruel Ed Balls",
+    "moduleID": "cruelEdBalls",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Submit your answer with \"!{0} press EDBALLS\" or \"!{0} submit 1 2 3 4 5 5 6\". Buttons can be identified by position or by letter. Submissions must be seven buttons long.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Cruel Garfield Kart",
     "moduleID": "CruelGarfieldKart",
     "scoreStringOverride": false,
@@ -6320,6 +6405,23 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "BottomLeft",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Cruel Simpleton",
+    "moduleID": "CruelSimpleton",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "For black hole, use \"!{0} black\" followed by \"hold #\" to hold the button # number of tick down, \"wait #\" to wait # ticks, and \"press\" to tap and immediately release. Commands be chained with a space in between. For morse code, \"use !{0}\" followed by \".\" and \"-\". Ex .- = A. Chain codes with a space between. For section presses, use \"!{0} press\" followed by the number of the section. Use \"!{0} press 1 at 30\" to press the section at 30 seconds. Sections can be chained with no spaces between. Times can be chained with spaces between. Use \"!{0} hold #\" to hold the button for # seconds.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": true,
@@ -7994,6 +8096,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Ed Balls",
+    "moduleID": "edBalls",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Submit your answer with \"!{0} press EDBALLS\" or \"!{0} submit 1 2 3 4 5 5 6\". Buttons can be identified by position or by letter. Submissions must be seven buttons long.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Edgework",
     "moduleID": "EdgeworkModule",
     "scoreStringOverride": false,
@@ -8730,6 +8849,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Factoring Grid",
+    "moduleID": "factoringGrid",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "<!{0} a1 a2;a1 b1> to toggle the edges between adjacent cells, <!{0} reset> to reset the grid, <!{0} submit> to submit",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Factoring Maze",
     "moduleID": "factoringMaze",
     "scoreStringOverride": false,
@@ -9115,6 +9251,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Fifty Blessings",
+    "moduleID": "FiftyBlessings",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} pickup' to pick up the phone on the next ring | '!{0} <number>' to submit a blueprint.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -10508,6 +10661,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Girlfriend",
+    "moduleID": "Girlfriend",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use `!{0} play` to play the song. Use `!{0} [language]` to select the language. Use `!{0} submit` to submit.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -12202,6 +12372,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Isocolored Squares",
+    "moduleID": "IsocoloredSquaresModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} A1 A2 A3 B3 [specify column as letter, then row as number] | !{0} colorblind",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Jack Attack",
     "moduleID": "jackAttack",
     "scoreStringOverride": false,
@@ -12226,7 +12413,7 @@
     "announceModule": false,
     "unclaimable": true,
     "helpTextOverride": false,
-    "helpText": null,
+    "helpText": "!{0} s [Presses the solve button]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -14866,6 +15053,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Maze Swap",
+    "moduleID": "mazeSwap",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} UDLR' to press those arrows; command execution will be stopped if the triangle changes color. || !{0} CB to toggle colorblind mode.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Maze³",
     "moduleID": "maze3",
     "scoreStringOverride": false,
@@ -16804,6 +17008,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Needy Pong",
+    "moduleID": "NeedyPong",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} left/l/right/r <top/t/middle/m/bottom/b> [Sets the left or right paddle to the specified position on the screen] | On Twitch Plays the ball travels at half its normal speed",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Needy Quiz",
     "moduleID": "NeedyVentV2",
     "scoreStringOverride": false,
@@ -18562,6 +18780,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Overcolored Squares",
+    "moduleID": "OvercoloredSquaresModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} A1 A2 A3 B3 [specify column as letter, then row as number] | !{0} colorblind",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Painting",
     "moduleID": "Painting",
     "scoreStringOverride": false,
@@ -19683,6 +19918,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Point Grid",
+    "moduleID": "PointGrid",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} <arrow> <direction>' to set the state of an arrow | '!{0} submit' to submit the current state | Arrows are 1-12 in reading order; directions are u/ur/r/dr/d/dl/l/ul; chain commands with semicolons (;).",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Point of Order",
     "moduleID": "PointOfOrderModule",
     "scoreStringOverride": false,
@@ -19867,20 +20119,6 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
-    "CameraPinningAlwaysAllowed": false
-  },
-  {
-    "moduleDisplayName": "Pong",
-    "moduleID": "NeedyPong",
-    "scoreStringOverride": false,
-    "scoreString": null,
-    "announceModule": false,
-    "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": null,
-    "manualCodeOverride": false,
-    "manualCode": null,
-    "statusLightPosition": "Default",
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -20720,6 +20958,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Raster Prime",
+    "moduleID": "rasterPrime",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "'!{0} press L RL' to press those directions.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Reading Between the Lines",
     "moduleID": "ReadingBetweentheLines",
     "scoreStringOverride": false,
@@ -21156,6 +21411,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Reporting Anomalies",
+    "moduleID": "ReportingAnomalies",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": true,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use !{0} left/right to switch between cameras. Use !{0} report X in Y to report that specific anomaly in that specific room. Note that underscores are used in place of spaces for anomaly and room names.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -21981,6 +22253,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Samuel Says",
+    "moduleID": "SamuelSays",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} start/mute/gray' to press the gray button; '!{0} <colorblind/cb>' | Stages 1-4: '!{0} <transmit/tx> <color> <./->' to transmit a colored symbol | Quirks: '!{0} press <colors/positions>'; '!{0} touch <color/position> <last seconds digit>; '!{0} spam' to calm Samuel down | Stage 5: '!{0} <transmit/tx> <morse> <colors>' (eg '!{0} tx ....---..-..-.. RY' submits 'SAMUEL', alternating red and yellow) | Colors are R/Y/G/B; Positions are 1-4 in reading order.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Saturn",
     "moduleID": "saturn",
     "scoreStringOverride": false,
@@ -22686,6 +22975,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Shy Guy Says",
+    "moduleID": "ShyGuySays",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} <start/shyguy>' to press the Shy Guy button | '!{0} <colorblind/cb>' | '!{0} <L/R>' to press flags. Optionally, chain presses without spaces, eg '!{0} LRLR' | On TP, the timer is extended by 25 seconds.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -25341,6 +25647,23 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Synapse Cipher",
+    "moduleID": "synapseCipher",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} CB to toggle colorblind mode. || !{0} submit to go into submission mode or submit your answer if it's already in submission mode. || !{0} input grbyj to input your submission. || !{0} clear 1234567890/all to clear the number of squares or clear all of the squares.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "SYNC-125 [3]",
     "moduleID": "sync125_3",
     "scoreStringOverride": false,
@@ -26754,6 +27077,23 @@
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "The Fidget Spinner",
+    "moduleID": "theFidgetSpinner",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "!{0} spin [Clicks the fidget spinner until the timer maxes out]",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -30214,6 +30554,23 @@
     "validCommandsOverride": false,
     "validCommands": null,
     "DoesTheRightThing": false,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "WASD",
+    "moduleID": "wasdModule",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Use '!{0} <W/A/S/D>' to press that button; Chain presses without spaces.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "DoesTheRightThing": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
