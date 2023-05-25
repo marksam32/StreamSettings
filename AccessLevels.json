@@ -783,7 +783,7 @@
     "codenametoxicity": "User",
     "mixivr": "User",
     "kingdabura": "User",
-    "danielstigman315": "Banned, Defuser",
+    "danielstigman315": "Defuser",
     "oegamer": "User",
     "sundancingkitty": "User",
     "sammyskye": "User",
@@ -1441,7 +1441,28 @@
     "themasterfireita": "User",
     "schersettodiscorse": "User",
     "comander800kd": "User",
-    "alebr0_29": "User"
+    "alebr0_29": "User",
+    "windnesss": "User",
+    "nexlation": "User",
+    "cold_galaxy": "User",
+    "bgo00000000": "User",
+    "umbra_moruka": "User",
+    "lobbby2020": "User",
+    "hesp_hs": "User",
+    "timkador": "User",
+    "hagoromo__1": "User",
+    "foreverflame": "User",
+    "chargingmagicmissiles": "User",
+    "sablessan_nanoda": "User",
+    "schwiftycatt": "User",
+    "maestrikeyt": "User",
+    "ccspiritminister": "User",
+    "hiram1072": "User",
+    "y_y_ktane": "User",
+    "average_twitch_chat_w": "User",
+    "alpha8404": "User",
+    "thewebbis": "User",
+    "shrekisverycool": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1611,11 +1632,6 @@
     },
     "pinhualoh": {
       "BannedBy": "BigLittleOrMe",
-      "BannedReason": null,
-      "BanExpiry": "Infinity"
-    },
-    "danielstigman315": {
-      "BannedBy": "marksam32",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     },
