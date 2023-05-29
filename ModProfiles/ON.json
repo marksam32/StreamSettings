@@ -1,15 +1,9 @@
 {
   "DisabledList": [
-    "GSEavesdropping",
     "TrainingText",
-    "UINpL",
     "GSNineBall",
     "solveStrike",
-    "NiftyNumber",
-    "forgetMazeNot",
-    "RailwayCargoLoading",
-    "lookLookAway",
-    "subblyJubbly"
+    "forgetMazeNot"
   ],
   "Operation": 1
 }
