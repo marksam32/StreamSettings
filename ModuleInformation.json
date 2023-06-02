@@ -9271,6 +9271,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Filibuster",
+    "moduleID": "Filibuster",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": true,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Fillominordle",
     "moduleID": "Fillominordle",
     "scoreStringOverride": false,
@@ -11249,7 +11263,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "The commands that you can use are: !{0} colorblind (toggles colorblind mode), !{0} submit . (presses dot button), !{0} submit / (presses slash button), !{0} switch hertz (changes the hertz number) and !{0} tx hertz (submits the hertz number).",
+    "helpText": "!{0} colorblind [toggles colorblind mode], !{0} submit ./././ [Submits a sequence of .'s and /'s], !{0} hertz ### (tries to cycle to the specified hertz number and then presses the transmit button).",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -30227,7 +30241,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
+    "helpText": "!{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",

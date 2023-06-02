@@ -41,7 +41,9 @@
     "Disable Only Connect": false,
     "Disable Simon Sends": false,
     "Disable The Gamepad": false,
-    "Disable The Screw": false
+    "Disable The Screw": false,
+    "Disable Emoji Math": false,
+    "Disable Round Keypad": false
   },
   "note": null
 }
