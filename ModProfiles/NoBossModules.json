@@ -86,7 +86,9 @@
     "nobodysCodeModule",
     "generator",
     "perspectiveStackingModule",
-    "ReportingAnomalies"
+    "ReportingAnomalies",
+    "forgetle",
+    "ActionsAndConsequences"
   ],
   "Operation": 1
 }
