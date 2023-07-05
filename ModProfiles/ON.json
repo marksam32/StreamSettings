@@ -2,7 +2,13 @@
   "DisabledList": [
     "TrainingText",
     "solveStrike",
-    "bakery"
+    "bakery",
+    "passwordButtons",
+    "theSamsung",
+    "MemoryBuster",
+    "lookLookAway",
+    "remotemath",
+    "cyanbuttont"
   ],
   "Operation": 1
 }
