@@ -1,14 +1,15 @@
 {
   "DisabledList": [
-    "TrainingText",
-    "solveStrike",
     "bakery",
     "passwordButtons",
-    "theSamsung",
     "MemoryBuster",
     "lookLookAway",
     "remotemath",
-    "cyanbuttont"
+    "cyanbuttont",
+    "identificationCrisis",
+    "InstantInsanityModule",
+    "quizBuzz",
+    "KritModuleSprint"
   ],
   "Operation": 1
 }

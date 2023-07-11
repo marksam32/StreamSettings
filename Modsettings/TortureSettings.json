@@ -1,5 +1,7 @@
 {
-  "modulus": 10,
-  "minAffected": 5,
-  "maxAffected": 7
+  "Modulus": 10,
+  "MinAffected": 5,
+  "MaxAffected": 7,
+  "Height": 4,
+  "Width": 4
 }

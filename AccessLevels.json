@@ -1516,7 +1516,26 @@
     "singularityx0": "User",
     "lurksy11_": "User",
     "gifti258": "User",
-    "shadowclient007": "User"
+    "shadowclient007": "User",
+    "carter1284": "User",
+    "alex_corruptor": "User",
+    "robosnatchercam": "User",
+    "ericbktane": "User",
+    "yo_wuz_up": "User",
+    "imperiosaur": "User",
+    "crisisinperil": "User",
+    "casualcain": "User",
+    "fluxire": "User",
+    "driferano": "User",
+    "clash_killer2000": "User",
+    "igmizu": "User",
+    "n_menotfound": "User",
+    "notsoslippy": "User",
+    "余白頁": "User",
+    "afb_epicool": "User",
+    "daegan3": "User",
+    "jataro_kemuri": "User",
+    "fnfbf2009": "Banned"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1696,6 +1715,11 @@
     },
     "connor9810": {
       "BannedBy": "Strike_Kaboom",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "fnfbf2009": {
+      "BannedBy": "marksam32",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }
