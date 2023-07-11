@@ -29,6 +29,7 @@
     "forgetInfinity",
     "RPSJudging",
     "TheTwinModule",
+    "RAM",
     "iconic",
     "encryptedHangman",
     "multitask",
@@ -88,7 +89,8 @@
     "perspectiveStackingModule",
     "ReportingAnomalies",
     "forgetle",
-    "ActionsAndConsequences"
+    "ActionsAndConsequences",
+    "fizzBoss"
   ],
   "Operation": 1
 }
