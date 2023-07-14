@@ -1,16 +1,14 @@
 {
   "DisabledList": [
     "bakery",
-    "passwordButtons",
     "MemoryBuster",
     "lookLookAway",
     "remotemath",
-    "cyanbuttont",
     "identificationCrisis",
     "InstantInsanityModule",
     "quizBuzz",
-    "KritModuleSprint",
-    "whosOnGas"
+    "whosOnGas",
+    "zoomModule"
   ],
   "Operation": 1
 }

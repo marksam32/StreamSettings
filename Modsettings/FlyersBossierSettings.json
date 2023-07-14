@@ -3,6 +3,7 @@
   "EnableExperimentalStrikeRedirect": false,
   "ECExhibitionMode": false,
   "ECDynamicStageGen": true,
+  "ECBlacklistStageTypeIdxes": [],
   "SGTExhibitionMode": false,
   "SGTPlayCamelliaTracks": false,
   "SGTMaxStagesAhead": 15,
@@ -15,6 +16,7 @@
     1.0,
     0.75
   ],
+  "SGTRequireAllStages": false,
   "PPUseAlternativeGen": false,
   "PPPointsPerActivation": 2
 }
