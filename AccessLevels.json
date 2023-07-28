@@ -932,7 +932,7 @@
     "panther2788": "User",
     "29ax": "User",
     "zaspar99923": "User",
-    "kittyashy": "Admin",
+    "kittyashy": "SuperUser",
     "infernalonline": "User",
     "ugh_sunlight": "User",
     "panmazzar": "User",
@@ -1554,7 +1554,14 @@
     "cubix_900": "User",
     "yang_muliaa": "User",
     "motvisss": "User",
-    "charliemag_": "User"
+    "charliemag_": "User",
+    "rockhardjohnson1985": "User",
+    "はとさぶれなのだ": "User",
+    "anita_jamontoast": "Banned",
+    "imixira": "User",
+    "bilinmeyenbey": "User",
+    "menoshe": "User",
+    "matt4390": "User"
   },
   "Bans": {
     "bomb_griefer": {
@@ -1739,6 +1746,11 @@
     },
     "fnfbf2009": {
       "BannedBy": "marksam32",
+      "BannedReason": null,
+      "BanExpiry": "Infinity"
+    },
+    "anita_jamontoast": {
+      "BannedBy": "MrPeanut1028",
       "BannedReason": null,
       "BanExpiry": "Infinity"
     }

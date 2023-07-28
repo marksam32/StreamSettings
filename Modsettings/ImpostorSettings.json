@@ -43,7 +43,12 @@
     "Disable The Gamepad": false,
     "Disable The Screw": false,
     "Disable Emoji Math": false,
-    "Disable Round Keypad": false
+    "Disable Round Keypad": false,
+    "Disable Complicated Buttons": false,
+    "Disable Skewed Slots": false,
+    "Disable Perspective Pegs": false,
+    "Disable Fast Math": false,
+    "Disable Monsplode Fight": false
   },
   "note": null
 }

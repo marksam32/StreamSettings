@@ -1,15 +1,11 @@
 {
   "DisabledList": [
-    "bakery",
     "MemoryBuster",
     "lookLookAway",
     "remotemath",
     "whosOnGas",
     "iconic",
-    "cartinese",
     "ReportingAnomalies",
-    "1x1x1RubiksCube",
-    "cruelSchulteTable",
     "double_on"
   ],
   "Operation": 1
