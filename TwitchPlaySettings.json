@@ -26,7 +26,7 @@
   "EnableLastModuleZoom": true,
   "RepositoryUrl": "https://ktane.timwi.de/",
   "AnalyzerUrl": "https://ktane.timwi.de/More/Logfile%20Analyzer.html",
-  "AutoReturnToSetupMinutes": 0,
+  "AutoReturnToSetupMinutes": 10,
   "EnableModeratorsCommand": true,
   "EnableTrollCommands": false,
   "EnableLetterCodes": false,
