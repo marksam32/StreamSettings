@@ -28,7 +28,8 @@
     "GSDoubleKnob",
     "needyModuleAlarm",
     "AreaSplitNeedy",
-    "functionIdentification"
+    "functionIdentification",
+    "GSMazeRush"
   ],
   "Operation": 1
 }

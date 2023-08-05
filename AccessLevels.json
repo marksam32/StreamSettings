@@ -4,7 +4,7 @@
   "MinimumAccessLevelForTimeoutCommand": "Mod",
   "MinimumAccessLevelForUnbanCommand": "Admin",
   "UserAccessLevel": {
-    "strike_kaboom": "SuperUser",
+    "strike_kaboom": "Admin",
     "seanktane": "Defuser",
     "romz3k57": "User",
     "exish": "User",
@@ -245,7 +245,7 @@
     "bboyparkour": "User",
     "bundas102": "User",
     "thefireboss12331": "User",
-    "red031000": "SuperUser",
+    "red031000": "User",
     "weatherman115": "User",
     "recklessabyss": "User",
     "dertobyyy": "User",
@@ -1561,7 +1561,11 @@
     "imixira": "User",
     "bilinmeyenbey": "User",
     "menoshe": "User",
-    "matt4390": "User"
+    "matt4390": "User",
+    "skipzplays123": "User",
+    "schroedingercat": "User",
+    "thedeathtrap": "User",
+    "bulldogg6404": "User"
   },
   "Bans": {
     "bomb_griefer": {
