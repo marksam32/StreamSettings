@@ -1029,6 +1029,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -3380,6 +3381,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5318,7 +5320,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Frysk, Frisian - Submit the correct response with !{0} press JA 3, or !{0} press NEE 5.",
+    "helpText": "Deutsch, German - Submit the correct response with !{0} press JA 3, or !{0} press NEIN 5.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -7062,6 +7064,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -8490,6 +8493,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -11118,6 +11122,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -12265,6 +12270,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -14391,6 +14397,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -14407,6 +14414,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -15646,6 +15654,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -17181,6 +17190,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -20401,6 +20411,7 @@
     "statusLightPosition": "Center",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -20910,6 +20921,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -22161,7 +22173,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use '!{0} start/mute/gray' to press the gray button; '!{0} <colorblind/cb>' | Stages 1-4: '!{0} <transmit/tx> <color> <./->' to transmit a colored symbol | Quirks: '!{0} press <colors/positions>'; '!{0} touch <color/position> <last seconds digit>; '!{0} spam' to calm Samuel down | Stage 5: '!{0} <transmit/tx> <morse> <colors>' (eg '!{0} tx ....---..-..-.. RY' submits 'SAMUEL', alternating red and yellow) | Colors are R/Y/G/B; Positions are 1-4 in reading order.",
+    "helpText": "Use '!{0} start/mute/gray' to press the gray button; '!{0} <colorblind/cb>' | Stages 1-4: '!{0} <transmit/tx> <color> <symbol>' to transmit a colored symbol | Quirks: '!{0} press <colors/positions>'; '!{0} touch <color/position> <last seconds digit>; '!{0} spam' to calm Samuel down | Stage 5: '!{0} <transmit/tx> <morse> <colors>' (eg '!{0} tx ....---..-..-.. RY' submits 'SAMUEL', alternating red and yellow) | Colors are R/Y/G/B; positions are 1-4 in reading order; symbols are . (dot) or - (dash).",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -22311,6 +22323,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -22851,6 +22864,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -23533,6 +23547,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -24391,6 +24406,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -25425,6 +25441,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -29886,7 +29903,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} 1x3 keys 012 [press keys on the 1×3 white keypad in that order] | !{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
+    "helpText": "!{0} 1x3 keys 012 [press keys on the 1×3 white keypad in that order] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -31103,7 +31120,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} <A-H><1-5> [Presses button when the specified symbol is displayed.]",
+    "helpText": "!{0} <A-H><1-8> [Presses button when the specified symbol is displayed.]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",

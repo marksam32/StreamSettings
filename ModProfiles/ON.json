@@ -3,13 +3,17 @@
     "MemoryBuster",
     "lookLookAway",
     "remotemath",
-    "iconic",
     "ReportingAnomalies",
     "double_on",
-    "BackdoorHacking",
     "KritGrandPrix",
     "technicalButtons",
-    "captainWheeler"
+    "captainWheeler",
+    "Microphone",
+    "matchmaker",
+    "polymodule",
+    "toeTactics",
+    "mazeswapper",
+    "clockworks"
   ],
   "Operation": 1
 }

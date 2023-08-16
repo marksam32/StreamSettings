@@ -1,12 +1,12 @@
 {
   "DisabledList": [
-    "Filibuster",
-    "MotionSense",
-    "HotPotato",
     "literallyNothing",
     "hearthur",
     "kawaiitlyn",
-    "whiteModule"
+    "whiteModule",
+    "Filibuster",
+    "MotionSense",
+    "HotPotato"
   ],
   "Operation": 1
 }
