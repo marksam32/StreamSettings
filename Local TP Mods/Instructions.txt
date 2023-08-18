@@ -22,4 +22,6 @@ installed locally into this "mods" folder
 The mods included in this folder are:
 - The Crystal Maze by Royal_Flu$h (Twitch Plays and Colorblind support)
 - Westeros by Royal_Flu$h (Twitch Plays and Gamepad support)
+- chip by Deaf (Removes copyright sound)
+- Simon's on First by Royal_Flu$h (Animation fix)
 - SQL mods by TheCrazyCodr (KeepCoding fix)
