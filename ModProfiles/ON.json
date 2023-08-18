@@ -13,7 +13,8 @@
     "polymodule",
     "toeTactics",
     "mazeswapper",
-    "clockworks"
+    "clockworks",
+    "xelDcrypt"
   ],
   "Operation": 1
 }

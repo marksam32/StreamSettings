@@ -307,7 +307,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use '!{0} 1 2 * > 4 / 2 >' to multiply 1 by 2, then press the display, then divide 4 by 2, then press the display.",
+    "helpText": "Use '!{0} 1 4 * > 2 / 3 >' to multiply the first number by the fourth, then press the display, then divide the second number by the third, then press the display. Operands are +-*/.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -4121,7 +4121,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press 123456789 [Presses buttons 123456789. Must be of length 9.]\n!{0} press go at xx [Press the go button when the seconds digits of the timer are xx.]\n!{0} press go [Press the go button at any time.]\n!{0} reset [Hold the go button to reset the module.",
+    "helpText": "!{0} press 123456789 [Presses buttons 123456789. Must be of length 9.]\n!{0} press go at xx [Press the go button when the seconds digits of the timer are xx.]\n!{0} press go [Press the go button at any time.]\n!{0} reset [Hold the go button to reset the module.\n!{0} done [Solve the module upon inputting the correct solution.]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -8510,6 +8510,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -14119,7 +14120,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use '!{0} 123 bet5 go' to select cards 1, 2 & 3, bet 5 coins, then press 'Draw'. Each part of the command is optional: for example, '!{0} 123 go' will not change the bet and '!{0} bet5 go' won't draw any cards. '!{0} mute', '!{0} unmute' will mute/unmute the smooth jazz. '!{0} holdon' / '!{0} holdoff' change whether or not the module will wait for the command '!{0} release' before solving.",
+    "helpText": "Use '!{0} 123 bet5 go' to select cards 1, 2 & 3, bet 5 coins, then press 'Draw'. Each part of the command is optional: for example, '!{0} 123 go' will not change the bet and '!{0} bet5 go' won't draw any cards. '!{0} mute', '!{0} unmute' will mute/unmute the smooth jazz. Use '!{0} status' to press the status light.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -23574,7 +23575,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} <1/2/3/4> [Presses those colored buttons, starting from the top-right and counting clockwise. Can be chained, i.e. ''!{0} press 134'.] !{0} center [Presses the gray button.]",
+    "helpText": "\"!{0} <1/2/3/4>\" [Presses those colored buttons, starting from the top-right and counting clockwise. Multiples can be chained, i.e. \"!{0} 134\".] | \"!{0} center/submit/gray/grey/a\" [Presses the gray button.] | Mentioned commands can be chained by spacing out, i.e. \"!{0} center 134 a\"",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -27064,6 +27065,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": true
   },
   {
