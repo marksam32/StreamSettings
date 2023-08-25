@@ -65,6 +65,7 @@
   "ModuleToStrikeRatio": 6,
   "PacingEventsOnRunBomb": true,
   "AllowSheetDisabledModules": true,
+  "BombFlipCooldown": 5,
   "EnableTimeModeForEveryone": true,
   "TimeModeStartingTime": 7.0,
   "TimeModeStartingMultiplier": 9.0,

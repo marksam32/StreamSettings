@@ -2,19 +2,17 @@
   "DisabledList": [
     "MemoryBuster",
     "lookLookAway",
-    "remotemath",
     "ReportingAnomalies",
     "double_on",
     "KritGrandPrix",
-    "technicalButtons",
-    "captainWheeler",
     "Microphone",
     "matchmaker",
     "polymodule",
-    "toeTactics",
-    "mazeswapper",
     "clockworks",
-    "xelDcrypt"
+    "GSCruelDialTrial",
+    "GSDialTrial",
+    "permutations",
+    "remotemath"
   ],
   "Operation": 1
 }

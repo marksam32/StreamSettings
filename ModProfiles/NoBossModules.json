@@ -38,8 +38,8 @@
     "ANDmodule",
     "dontTouchAnything",
     "busyBeaver",
-    "FourtyTwo",
     "FiveZeroOne",
+    "FourtyTwo",
     "whiteout",
     "qkButtonMesser",
     "ForgetAnyColor",
@@ -90,8 +90,7 @@
     "ReportingAnomalies",
     "forgetle",
     "ActionsAndConsequences",
-    "fizzBoss",
-    "WatchTheClock"
+    "fizzBoss"
   ],
   "Operation": 1
 }

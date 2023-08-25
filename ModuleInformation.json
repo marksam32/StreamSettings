@@ -242,8 +242,8 @@
     "scoreString": null,
     "announceModule": false,
     "unclaimable": false,
-    "helpTextOverride": false,
-    "helpText": "!{0} up/down (#) [Press the up or down arrow (optionally '#' times)] | !{0} submit [Presses the LED]",
+    "helpTextOverride": true,
+    "helpText": " !{0} (press) up/down [#] [Press the up or down arrow (optionally '#' times)] [slow] {slows each button press down} | !{0} submit [Presses the LED]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -2251,6 +2251,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -5320,7 +5321,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Deutsch, German - Submit the correct response with !{0} press JA 3, or !{0} press NEIN 5.",
+    "helpText": "Nederlands, Dutch - Submit the correct response with !{0} press JA 3, or !{0} press NEE 5.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -13366,6 +13367,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -14432,6 +14434,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -15848,6 +15851,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -18561,6 +18565,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -19121,7 +19126,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use !{0} 12345 to cut the wires in their respective positions.",
+    "helpText": "Use !{0} 12345 to cut the wires in their respective positions. !{0} Colorblind to toggle colorblind mode.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -19232,6 +19237,22 @@
     "unclaimable": false,
     "helpTextOverride": false,
     "helpText": "Use '!{0} 0123456789' to press the specified numbered buttons, 's' to press the submit button, 'c' to press the clear button.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
+    "moduleDisplayName": "Permutations",
+    "moduleID": "permutations",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Press a square with !{0} press 1, with the position of the buttons you want to press in reading order. Commands can stack (!{0} press 1 2 3 4). \"press\" is optional.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -19932,7 +19953,7 @@
     "announceModule": true,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} press 123456789 [Presses buttons 123456789. Must be of length 9.]\n!{0} press go at xx [Press the go button when the seconds digits of the timer are xx.]\n!{0} press go [Press the go button at any time.]\n!{0} reset [Hold the go button to reset the module.",
+    "helpText": "!{0} press 123456789 [Presses buttons 123456789. Must be of length 9.]\n!{0} press go at xx [Press the go button when the seconds digits of the timer are xx.]\n!{0} press go [Press the go button at any time.]\n!{0} reset [Hold the go button to reset the module.\n!{0} done [Solve the module upon inputting the correct solution.]",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -24852,7 +24873,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} .- inputs the morse code.",
+    "helpText": "!{0} .- inputs the morse code. Chain command is only possible with spaces.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -26273,6 +26294,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -29271,6 +29293,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -29905,7 +29928,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} 1x3 keys 012 [press keys on the 1×3 white keypad in that order] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
+    "helpText": "!{0} 1x3 keys 012 [press keys on the 1×3 white keypad in that order] | !{0} 3x3 maze UDLR [make moves in the 3×3 maze] | !{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -30516,6 +30539,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
