@@ -38,8 +38,8 @@
     "ANDmodule",
     "dontTouchAnything",
     "busyBeaver",
-    "FiveZeroOne",
     "FourtyTwo",
+    "FiveZeroOne",
     "whiteout",
     "qkButtonMesser",
     "ForgetAnyColor",
@@ -68,6 +68,7 @@
     "idExchange",
     "smbh",
     "GSEight",
+    "SimpleBoss",
     "KritGrandPrix",
     "ForgetMeMaybeModule",
     "channelSurfing",
@@ -90,7 +91,9 @@
     "ReportingAnomalies",
     "forgetle",
     "ActionsAndConsequences",
-    "fizzBoss"
+    "fizzBoss",
+    "solveShift",
+    "BlackoutModule"
   ],
   "Operation": 1
 }

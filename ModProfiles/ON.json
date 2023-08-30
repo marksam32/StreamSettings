@@ -5,14 +5,14 @@
     "ReportingAnomalies",
     "double_on",
     "KritGrandPrix",
-    "Microphone",
     "matchmaker",
     "polymodule",
     "clockworks",
     "GSCruelDialTrial",
     "GSDialTrial",
-    "permutations",
-    "remotemath"
+    "remotemath",
+    "GSTellMeWhy",
+    "AlienModule"
   ],
   "Operation": 1
 }

@@ -29,7 +29,9 @@
     "GSDoubleKnob",
     "needyModuleAlarm",
     "AreaSplitNeedy",
-    "functionIdentification"
+    "functionIdentification",
+    "needyPi",
+    "permutations"
   ],
   "Operation": 1
 }
