@@ -12,7 +12,9 @@
     "GSDialTrial",
     "remotemath",
     "GSTellMeWhy",
-    "AlienModule"
+    "AlienModule",
+    "CruelSimpleton",
+	"SimpleBoss"
   ],
   "Operation": 1
 }
