@@ -2,19 +2,19 @@
   "DisabledList": [
     "MemoryBuster",
     "lookLookAway",
-    "ReportingAnomalies",
     "double_on",
     "KritGrandPrix",
-    "matchmaker",
     "polymodule",
-    "clockworks",
     "GSCruelDialTrial",
     "GSDialTrial",
     "remotemath",
     "GSTellMeWhy",
     "AlienModule",
-    "CruelSimpleton",
-	"SimpleBoss"
+    "SimpleBoss",
+    "miscomBlackArrowsModule",
+    "jackboxServerModule",
+    "classicalSense",
+	"BlackoutModule"
   ],
   "Operation": 1
 }

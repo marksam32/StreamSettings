@@ -5369,7 +5369,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Nederlands, Dutch - Submit the correct response with !{0} press JA 3, or !{0} press NEE 5.",
+    "helpText": "العربية, Arabic - Submit the correct response with !{0} press نعم 3, or !{0} press لا 5.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -11070,7 +11070,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} 1 to press the button at the first color. !{0} submit to submit your answer.",
+    "helpText": "!{0} press 1 to press the button at the first color. !{0} press 11 to submit your answer.",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -17388,6 +17388,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -17612,6 +17613,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -25644,6 +25646,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -28901,7 +28904,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use `!{0} row col` to press the button at that location. Only can process one press per command",
+    "helpText": "Use `!{0} row col` to press the button at that location. Tiles can be chained via commas. EX: `1 1, 1 2` ",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -30267,7 +30270,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} 3x3 maze UDLR [make moves in the 3×3 maze] | !{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
+    "helpText": "!{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} knob 0 [turn knob to that many tickmarks from north] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
@@ -31411,6 +31414,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
