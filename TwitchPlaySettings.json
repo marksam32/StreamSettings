@@ -26,6 +26,7 @@
   "EnableLastModuleZoom": true,
   "RepositoryUrl": "https://ktane.timwi.de/",
   "AnalyzerUrl": "https://ktane.timwi.de/More/Logfile%20Analyzer.html",
+  "ScoringSheetId": "1G6hZW0RibjW7n72AkXZgDTHZ-LKj0usRkbAwxSPhcqA",
   "AutoReturnToSetupMinutes": 10,
   "EnableModeratorsCommand": true,
   "EnableTrollCommands": false,
@@ -42,6 +43,16 @@
   "VoteCountdownTime": 60,
   "EnableVoting": true,
   "EnableVoteSolve": true,
+  "EnableVSVoteSolve": false,
+  "MaxVoteSolvesPerBomb": 2,
+  "VoteSolveBossNormalModuleRatio": 0.1,
+  "VoteSolveBossMinSeconds": 120,
+  "VoteSolveNonBossRatio": 0.75,
+  "MinScoreForVoteSolve": 8,
+  "EnableMissionVoteSolve": false,
+  "VoteSolveRewardDecrease": 0.25,
+  "MaxVoteDetonatesPerBomb": 1,
+  "EnableVoteSolveAutomaticNoForClaims": true,
   "EnableAutoProfiles": true,
   "MinimumYesVotes": {
     "Detonation": 66,
@@ -423,25 +434,6 @@
       "Enabled": true,
       "Hidden": false
     },
-    "fair+modneedy": {
-      "DisplayName": "Fair + Mod Needy",
-      "Pools": [
-        {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 1.0
-        },
-        {
-          "Definition": "ALL_NEEDY, MODS",
-          "Weight": 0.0,
-          "Reward": 20,
-          "Time": 0
-        }
-      ],
-      "MinModules": 2,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
     "fair+needy": {
       "DisplayName": "Fair + Needy",
       "Pools": [
@@ -556,18 +548,17 @@
       "Enabled": true,
       "Hidden": false
     },
-    "easy": {
+    "mixedeasy": {
       "DisplayName": "Easy Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.5
         },
         {
-          "Definition": "SCORE, <= 7",
+          "Definition": "Score: <= 7",
           "Weight": 0.5,
-          "Reward": 3,
-          "Time": 120
+          "Reward": 3
         }
       ],
       "MinModules": 1,
@@ -626,15 +617,15 @@
       "Enabled": true,
       "Hidden": false
     },
-    "medium": {
+    "mixedmedium": {
       "DisplayName": "Medium Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.5
         },
         {
-          "Definition": "SCORE, > 7, <= 14",
+          "Definition": "Score: > 7, <= 14",
           "Weight": 0.5
         }
       ],
@@ -692,16 +683,22 @@
       "Enabled": true,
       "Hidden": false
     },
-    "hard": {
+    "mixedhard": {
       "DisplayName": "Hard Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.5
         },
         {
-          "Definition": "SCORE, > 14, <= 25",
-          "Weight": 0.5,
+          "Definition": "Score: > 14, <= 25",
+          "Weight": 0.3,
+          "Reward": 10,
+          "Time": 240
+        },
+        {
+          "Definition": "Score: > 14",
+          "Weight": 0.2,
           "Reward": 10,
           "Time": 240
         }
@@ -767,6 +764,141 @@
         {
           "Definition": "ALL_SOLVABLE",
           "Weight": 0.25
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "variety+boss": {
+      "DisplayName": "Variety + Boss",
+      "Pools": [
+        {
+          "Definition": "Score: <= 4",
+          "Weight": 0.11,
+          "Reward": 2,
+          "Time": 60
+        },
+        {
+          "Definition": "Score: <= 9",
+          "Weight": 0.15,
+          "Reward": 3,
+          "Time": 120
+        },
+        {
+          "Definition": "Score: >= 5, <= 14",
+          "Weight": 0.15
+        },
+        {
+          "Definition": "Score: >= 5, <= 19",
+          "Weight": 0.13
+        },
+        {
+          "Definition": "Score: >= 10, <= 24",
+          "Weight": 0.13
+        },
+        {
+          "Definition": "Score: >= 10, <= 29",
+          "Weight": 0.11,
+          "Reward": 8,
+          "Time": 180
+        },
+        {
+          "Definition": "Score: >= 20",
+          "Weight": 0.09,
+          "Reward": 10,
+          "Time": 240
+        },
+        {
+          "Definition": "AllSolvable",
+          "Weight": 0.0865
+        },
+        {
+          "Definition": "DisabledBy: NoBossModules",
+          "Weight": 0.0435,
+          "Reward": 0,
+          "Time": 300
+        },
+        {
+          "Definition": "DisabledBy: NoBossModules",
+          "Weight": 0.0,
+          "Reward": 0,
+          "Time": 300
+        }
+      ],
+      "MinModules": 2,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "fair+modneedy": {
+      "DisplayName": "Fair + Mod Needy",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 1.0
+        },
+        {
+          "Definition": "ALL_NEEDY, MODS",
+          "Weight": 0.0,
+          "Reward": 20,
+          "Time": 0
+        }
+      ],
+      "MinModules": 2,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "easy": {
+      "DisplayName": "Easy Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "SCORE, <= 7",
+          "Weight": 0.5,
+          "Reward": 3,
+          "Time": 120
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "medium": {
+      "DisplayName": "Medium Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "SCORE, > 7, <= 14",
+          "Weight": 0.5
+        }
+      ],
+      "MinModules": 1,
+      "MaxModules": 101,
+      "Enabled": true,
+      "Hidden": false
+    },
+    "hard": {
+      "DisplayName": "Hard Mix",
+      "Pools": [
+        {
+          "Definition": "ALL_SOLVABLE",
+          "Weight": 0.5
+        },
+        {
+          "Definition": "SCORE, > 14, <= 25",
+          "Weight": 0.5,
+          "Reward": 10,
+          "Time": 240
         }
       ],
       "MinModules": 1,

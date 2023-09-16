@@ -13,7 +13,12 @@
     "SimpleBoss",
     "miscomBlackArrowsModule",
     "classicalSense",
-	"BlackoutModule"
+    "BlackoutModule",
+    "backdoorKeypad",
+    "simonSteps",
+    "trunic",
+    "Skewers",
+    "NavigationDeterminationModule"
   ],
   "Operation": 1
 }
