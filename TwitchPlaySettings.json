@@ -348,7 +348,7 @@
       "DisplayName": "Vanilla",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE, BASE",
+          "Definition": "AllSolvable: Base",
           "Weight": 1.0
         }
       ],
@@ -358,14 +358,14 @@
       "Hidden": false
     },
     "light": {
-      "DisplayName": "Mods",
+      "DisplayName": "Light Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE, BASE",
+          "Definition": "AllSolvable: Base",
           "Weight": 0.8
         },
         {
-          "Definition": "ALL_SOLVABLE, MODS",
+          "Definition": "AllSolvable: Mods",
           "Weight": 0.2
         }
       ],
@@ -375,14 +375,14 @@
       "Hidden": true
     },
     "mixed": {
-      "DisplayName": "Mods",
+      "DisplayName": "Mixed",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE, BASE",
+          "Definition": "AllSolvable: Base",
           "Weight": 0.5
         },
         {
-          "Definition": "ALL_SOLVABLE, MODS",
+          "Definition": "AllSolvable: Mods",
           "Weight": 0.5
         }
       ],
@@ -392,14 +392,14 @@
       "Hidden": true
     },
     "heavy": {
-      "DisplayName": "Mods",
+      "DisplayName": "Heavy Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE, BASE",
+          "Definition": "AllSolvable: Base",
           "Weight": 0.2
         },
         {
-          "Definition": "ALL_SOLVABLE, MODS",
+          "Definition": "AllSolvable: Mods",
           "Weight": 0.8
         }
       ],
@@ -412,7 +412,7 @@
       "DisplayName": "Mods",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE, MODS",
+          "Definition": "AllSolvable: Mods",
           "Weight": 1.0
         }
       ],
@@ -425,7 +425,7 @@
       "DisplayName": "Fair Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 1.0
         }
       ],
@@ -438,11 +438,11 @@
       "DisplayName": "Fair + Needy",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 1.0
         },
         {
-          "Definition": "ALL_NEEDY, MODS",
+          "Definition": "AllNeedy: Mods",
           "Weight": 0.0,
           "Reward": 20,
           "Time": 0
@@ -457,17 +457,17 @@
       "DisplayName": "Fair + 2 Needies",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 1.0
         },
         {
-          "Definition": "ALL_NEEDY",
+          "Definition": "AllNeedy: Mods",
           "Weight": 0.0,
           "Reward": 20,
           "Time": 0
         },
         {
-          "Definition": "ALL_NEEDY",
+          "Definition": "AllNeedy: Mods",
           "Weight": 0.0,
           "Reward": 20,
           "Time": 0
@@ -482,11 +482,11 @@
       "DisplayName": "Fair + Needy Sometimes",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 1.0
         },
         {
-          "Definition": "ALL_MODULES",
+          "Definition": "AllModules",
           "Weight": 0.0
         }
       ],
@@ -499,11 +499,11 @@
       "DisplayName": "Fair + Needies Sometimes",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.8
         },
         {
-          "Definition": "ALL_MODULES",
+          "Definition": "AllModules",
           "Weight": 0.2
         }
       ],
@@ -516,12 +516,12 @@
       "DisplayName": "Chaos",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 0.0
+          "Definition": "AllModules",
+          "Weight": 1.0
         },
         {
-          "Definition": "ALL_MODULES",
-          "Weight": 1.0
+          "Definition": "AllSolvable",
+          "Weight": 0.0
         }
       ],
       "MinModules": 2,
@@ -533,14 +533,13 @@
       "DisplayName": "Light Easy Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.7
         },
         {
-          "Definition": "SCORE, <= 7",
+          "Definition": "Score: <= 7",
           "Weight": 0.3,
-          "Reward": 3,
-          "Time": 120
+          "Reward": 3
         }
       ],
       "MinModules": 1,
@@ -570,14 +569,13 @@
       "DisplayName": "Heavy Easy Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.2
         },
         {
-          "Definition": "SCORE, <= 7",
+          "Definition": "Score: <= 7",
           "Weight": 0.8,
-          "Reward": 3,
-          "Time": 120
+          "Reward": 3
         }
       ],
       "MinModules": 1,
@@ -589,10 +587,9 @@
       "DisplayName": "All Easy",
       "Pools": [
         {
-          "Definition": "SCORE, <= 7",
+          "Definition": "Score: <= 7",
           "Weight": 1.0,
-          "Reward": 3,
-          "Time": 120
+          "Reward": 3
         }
       ],
       "MinModules": 1,
@@ -604,11 +601,11 @@
       "DisplayName": "Light Medium Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.7
         },
         {
-          "Definition": "SCORE, > 7, <= 14",
+          "Definition": "Score: > 7, <= 14",
           "Weight": 0.3
         }
       ],
@@ -638,11 +635,11 @@
       "DisplayName": "Heavy Medium Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.2
         },
         {
-          "Definition": "SCORE, > 7, <= 14",
+          "Definition": "Score: > 7, <= 14",
           "Weight": 0.8
         }
       ],
@@ -655,7 +652,7 @@
       "DisplayName": "All Medium",
       "Pools": [
         {
-          "Definition": "SCORE, > 7, <= 14",
+          "Definition": "Score: > 7, <= 14",
           "Weight": 1.0
         }
       ],
@@ -668,12 +665,18 @@
       "DisplayName": "Light Hard Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
+          "Definition": "AllSolvable",
           "Weight": 0.7
         },
         {
-          "Definition": "SCORE, > 14, <= 25",
-          "Weight": 0.3,
+          "Definition": "Score: > 14, <= 25",
+          "Weight": 0.2,
+          "Reward": 10,
+          "Time": 240
+        },
+        {
+          "Definition": "Score: > 14",
+          "Weight": 0.1,
           "Reward": 10,
           "Time": 240
         }
@@ -712,12 +715,18 @@
       "DisplayName": "Heavy Hard Mix",
       "Pools": [
         {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 0.8
+          "Definition": "AllSolvable",
+          "Weight": 0.2
         },
         {
-          "Definition": "SCORE, > 14, <= 25",
-          "Weight": 0.2,
+          "Definition": "Score: > 14, <= 25",
+          "Weight": 0.5,
+          "Reward": 10,
+          "Time": 240
+        },
+        {
+          "Definition": "Score: > 14",
+          "Weight": 0.3,
           "Reward": 10,
           "Time": 240
         }
@@ -731,8 +740,14 @@
       "DisplayName": "All Hard",
       "Pools": [
         {
-          "Definition": "SCORE, > 14, <= 25",
-          "Weight": 1.0,
+          "Definition": "Score: > 14, <= 25",
+          "Weight": 0.6,
+          "Reward": 10,
+          "Time": 240
+        },
+        {
+          "Definition": "Score: > 14",
+          "Weight": 0.4,
           "Reward": 10,
           "Time": 240
         }
@@ -746,24 +761,44 @@
       "DisplayName": "Variety Mix",
       "Pools": [
         {
-          "Definition": "SCORE, <= 7",
-          "Weight": 0.3,
+          "Definition": "Score: <= 4",
+          "Weight": 0.11,
+          "Reward": 2,
+          "Time": 60
+        },
+        {
+          "Definition": "Score: <= 9",
+          "Weight": 0.15,
           "Reward": 3,
           "Time": 120
         },
         {
-          "Definition": "SCORE, > 7, <= 14",
-          "Weight": 0.25
+          "Definition": "Score: >= 5, <= 14",
+          "Weight": 0.15
         },
         {
-          "Definition": "SCORE, > 14, <= 25",
-          "Weight": 0.2,
+          "Definition": "Score: >= 5, <= 19",
+          "Weight": 0.13
+        },
+        {
+          "Definition": "Score: >= 10, <= 24",
+          "Weight": 0.13
+        },
+        {
+          "Definition": "Score: >= 10, <= 29",
+          "Weight": 0.11,
+          "Reward": 8,
+          "Time": 180
+        },
+        {
+          "Definition": "Score: >= 20",
+          "Weight": 0.09,
           "Reward": 10,
           "Time": 240
         },
         {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 0.25
+          "Definition": "AllSolvable",
+          "Weight": 0.13
         }
       ],
       "MinModules": 1,
@@ -828,80 +863,6 @@
         }
       ],
       "MinModules": 2,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "fair+modneedy": {
-      "DisplayName": "Fair + Mod Needy",
-      "Pools": [
-        {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 1.0
-        },
-        {
-          "Definition": "ALL_NEEDY, MODS",
-          "Weight": 0.0,
-          "Reward": 20,
-          "Time": 0
-        }
-      ],
-      "MinModules": 2,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "easy": {
-      "DisplayName": "Easy Mix",
-      "Pools": [
-        {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 0.5
-        },
-        {
-          "Definition": "SCORE, <= 7",
-          "Weight": 0.5,
-          "Reward": 3,
-          "Time": 120
-        }
-      ],
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "medium": {
-      "DisplayName": "Medium Mix",
-      "Pools": [
-        {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 0.5
-        },
-        {
-          "Definition": "SCORE, > 7, <= 14",
-          "Weight": 0.5
-        }
-      ],
-      "MinModules": 1,
-      "MaxModules": 101,
-      "Enabled": true,
-      "Hidden": false
-    },
-    "hard": {
-      "DisplayName": "Hard Mix",
-      "Pools": [
-        {
-          "Definition": "ALL_SOLVABLE",
-          "Weight": 0.5
-        },
-        {
-          "Definition": "SCORE, > 14, <= 25",
-          "Weight": 0.5,
-          "Reward": 10,
-          "Time": 240
-        }
-      ],
-      "MinModules": 1,
       "MaxModules": 101,
       "Enabled": true,
       "Hidden": false
