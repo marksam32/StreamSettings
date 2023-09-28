@@ -11126,6 +11126,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Green Wires",
+    "moduleID": "GreenWires",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Grid Matching",
     "moduleID": "GridMatching",
     "scoreStringOverride": false,
@@ -28947,12 +28961,13 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "Use `!{0} row col` to press the button at that location. Tiles can be chained via commas. EX: `1 1, 1 2` ",
+    "helpText": "Use `!{0} row col` to press the button at that location. BL square is considered `1 1` while TR square is considered `10 0`. Tiles can be chained via commas. EX: `1 1, 1 2`",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {

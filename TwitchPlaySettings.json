@@ -69,6 +69,7 @@
   "AllowTurnTheKeyEarlyLate": true,
   "DisableTurnTheKeysSoftLock": true,
   "EnforceSolveAllBeforeTurningKeys": true,
+  "DisableCopyrightChipMusic": true,
   "LogUploaderShortUrls": false,
   "SuperStreamerIgnoreClaimLimit": false,
   "MinScoreForNewbomb": 100,

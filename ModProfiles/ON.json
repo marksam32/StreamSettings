@@ -14,7 +14,10 @@
     "classicalSense",
     "backdoorKeypad",
     "simonSteps",
-    "lyricalNonsense"
+    "lyricalNonsense",
+    "PickupIdentification",
+    "pwMutilatorEX",
+    "forgetle"
   ],
   "Operation": 1
 }
