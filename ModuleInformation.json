@@ -28908,6 +28908,20 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Three Sentence Horror",
+    "moduleID": "threeSentenceHorror",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": true,
+    "unclaimable": true,
+    "helpTextOverride": false,
+    "helpText": null,
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Three-Way Gates",
     "moduleID": "threewayGates",
     "scoreStringOverride": false,
