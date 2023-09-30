@@ -251,6 +251,7 @@
     "NoMul",
     "NoMxMap",
     "NoMazeSwap",
+	"NoMPoly",
     "NoOcta",
     "NoOD",
     "NoOKeys",
