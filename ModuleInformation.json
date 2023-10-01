@@ -30254,6 +30254,7 @@
     "statusLightPosition": "Default",
     "validCommandsOverride": false,
     "validCommands": null,
+    "CompatibilityMode": true,
     "CameraPinningAlwaysAllowed": false
   },
   {
@@ -30424,7 +30425,7 @@
     "announceModule": false,
     "unclaimable": false,
     "helpTextOverride": false,
-    "helpText": "!{0} braille 125 [set Braille display; Braille is numbered in vertical columns] | !{0} cut blue [cut a wire] | !{0} digit 0 [set the digit display] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red bulb ..- [transmit ..- on the red bulb] | !{0} red bulb reset [show flashing code again] | !{0} red button hold 2 [hold the red button over that many timer ticks] | !{0} red button mash 3 [mash the red button that many times] | !{0} red keys 01 [press those keys on the red keypad] | !{0} red knob 0 [turn knob that many times] !{0} red knob cycle [turn the knob slowly] | !{0} colorblind",
+    "helpText": "!{0} 1x3 keys 012 [press keys on the 1×3 white keypad in that order] | !{0} digit 0 [set the digit display] | !{0} horiz/vert 0 [set horizontal/vertical slider] | !{0} key 0 [turn the key-in-lock at last timer digit] | !{0} knob 0 [turn the white knob to that many tickmarks from north] | !{0} led white [set the LED to white] | !{0} led reset [show flashing colors again] | !{0} letters cycle [cycle each letter slot] | !{0} letters PIN [set letter display] | !{0} red bulb ..- [transmit ..- on the red bulb] | !{0} red bulb reset [show flashing code again] | !{0} red knob 0 [turn knob that many times] !{0} red knob cycle [turn the knob slowly] | !{0} red switch 0 [toggle red switch to up] | !{0} colorblind",
     "manualCodeOverride": false,
     "manualCode": null,
     "statusLightPosition": "Default",
