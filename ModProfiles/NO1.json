@@ -19,6 +19,8 @@
     "boozleglyphIdentification",
     "hyperneedy",
     "rotatingSquares",
+    "BlueNeedy",
+    "RedNeedy",
     "NotCapacitorDischarge",
     "NotVentingGas",
     "shuffledStrings",
@@ -31,7 +33,8 @@
     "AreaSplitNeedy",
     "functionIdentification",
     "needyPi",
-    "permutations"
+    "permutations",
+    "NotNotNot"
   ],
   "Operation": 1
 }

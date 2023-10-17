@@ -1,23 +1,17 @@
 {
   "DisabledList": [
-    "MemoryBuster",
-    "lookLookAway",
     "double_on",
     "KritGrandPrix",
     "polymodule",
     "GSCruelDialTrial",
     "GSDialTrial",
-    "remotemath",
     "GSTellMeWhy",
     "AlienModule",
     "classicalSense",
     "lyricalNonsense",
-    "PickupIdentification",
-    "pwMutilatorEX",
-    "forgetle",
     "neutrinos",
-    "IDVerification",
-    "GoofierGame"
+    "GoofierGame",
+    "PerspecticoloredSquaresModule"
   ],
   "Operation": 1
 }
