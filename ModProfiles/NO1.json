@@ -19,8 +19,6 @@
     "boozleglyphIdentification",
     "hyperneedy",
     "rotatingSquares",
-    "BlueNeedy",
-    "RedNeedy",
     "NotCapacitorDischarge",
     "NotVentingGas",
     "shuffledStrings",
@@ -29,12 +27,9 @@
     "runeMatchI",
     "runeMatchIII",
     "GSDoubleKnob",
-    "needyModuleAlarm",
     "AreaSplitNeedy",
     "functionIdentification",
-    "needyPi",
-    "permutations",
-    "NotNotNot"
+    "permutations"
   ],
   "Operation": 1
 }

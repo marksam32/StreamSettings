@@ -1,6 +1,7 @@
 {
   "DisabledList": [
-    "ValidationNeedy"
+    "ValidationNeedy",
+    "needyModuleAlarm"
   ],
   "Operation": 1
 }
