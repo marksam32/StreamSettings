@@ -67,6 +67,7 @@
     "soulsong",
     "idExchange",
     "smbh",
+    "redLightGreenLight",
     "GSEight",
     "SimpleBoss",
     "SimpleBossNot",
@@ -95,7 +96,8 @@
     "fizzBoss",
     "solveShift",
     "BlackoutModule",
-    "hickoryDickoryDockModule"
+    "hickoryDickoryDockModule",
+    "sbemailsongs"
   ],
   "Operation": 1
 }

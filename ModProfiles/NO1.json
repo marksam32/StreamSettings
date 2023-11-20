@@ -29,7 +29,13 @@
     "GSDoubleKnob",
     "AreaSplitNeedy",
     "functionIdentification",
-    "permutations"
+    "permutations",
+    "GSCoincidence",
+    "GSRevisionHelper",
+    "witheredFoxy",
+    "sidhoffrenchman",
+    "blinker",
+    "devilishCalculations"
   ],
   "Operation": 1
 }

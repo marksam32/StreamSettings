@@ -1,0 +1,7 @@
+{
+  "Questions": null,
+  "BaseCountdownTime": 45.0,
+  "OverThreeAnswersIncrement": 2.0,
+  "LongQuestionIncrement": 2.0,
+  "TwitchPlaysBonusTime": 30.0
+}
