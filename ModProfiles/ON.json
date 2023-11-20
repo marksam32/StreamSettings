@@ -1,21 +1,14 @@
 {
   "DisabledList": [
-    "double_on",
-    "KritGrandPrix",
-    "polymodule",
     "AlienModule",
-    "classicalSense",
     "lyricalNonsense",
-    "GoofierGame",
     "CruelSimpleton",
-    "QuickArithmetic",
-    "exoplanets",
-    "repeatAgain",
     "ShiritoriModule",
     "MaroonButtonModule",
     "periodicWordsScrambledRB",
-    "TheArena",
-    "GreenWires"
+    "GreenWires",
+    "congkakMQEktane1",
+    "repeatAgain"
   ],
   "Operation": 1
 }
