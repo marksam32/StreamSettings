@@ -1,11 +1,9 @@
 {
   "DisabledList": [
-    "AlienModule",
     "lyricalNonsense",
     "CruelSimpleton",
     "GreenWires",
-    "congkakMQEktane1",
-    "repeatAgain"
+    "congkakMQEktane1"
   ],
   "Operation": 1
 }
