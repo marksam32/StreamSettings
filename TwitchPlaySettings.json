@@ -114,6 +114,7 @@
   "InstantModuleClaimCooldownExpiry": 3600,
   "CustomMissions": {},
   "ProfileWhitelist": [
+    "NoAlarming",
     "NoAgain",
     "NoBW",
     "NoBO",
@@ -284,6 +285,7 @@
     "NoSbS",
     "NoScalar",
     "NoSShift",
+    "NoSSport",
     "NoSCF",
     "NoSGT",
     "NoSMaze",
