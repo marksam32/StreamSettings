@@ -1,16 +1,16 @@
 {
   "DisabledList": [
     "lyricalNonsense",
-    "GreenWires",
     "kataCheatCheckout",
     "krazyTalk",
-    "TheWeakestLink",
-    "Rambopo",
     "KritModuleSprint",
     "qkRepoSelector",
     "GSJumbledButtons",
     "GSSwitchingButtons",
-    "bagSearch"
+    "simonSupports",
+    "toeTactics",
+    "ForeignExchangeRates",
+    "deathNoteModule"
   ],
   "Operation": 1
 }

@@ -26,7 +26,6 @@
     "NotKnob",
     "runeMatchI",
     "runeMatchIII",
-    "BCFilingNeedy",
     "GSDoubleKnob",
     "NeedyScreensaver",
     "AreaSplitNeedy",
@@ -34,8 +33,7 @@
     "permutations",
     "GSCoincidence",
     "blinker",
-    "devilishCalculations",
-    "mistranslatedVentingGas"
+    "devilishCalculations"
   ],
   "Operation": 1
 }
