@@ -322,7 +322,8 @@
     "No2",
     "No3",
     "No4",
-    "NoBossModules"
+    "NoBossModules",
+    "NoPseudoNeedy"
   ],
   "ToggleableModules": [],
   "BombCustomMessages": {

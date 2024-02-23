@@ -2,13 +2,13 @@
   "DisabledList": [
     "kataCheatCheckout",
     "krazyTalk",
-    "KritModuleSprint",
     "qkRepoSelector",
     "ForeignExchangeRates",
-    "deathNoteModule",
     "LargeVanillaPassword",
-    "1x1x1RubiksCube",
-    "CruelSimpleton"
+    "CruelSimpleton",
+    "morseWoF",
+    "chineseCounting",
+    "SimonsSatire"
   ],
   "Operation": 1
 }
