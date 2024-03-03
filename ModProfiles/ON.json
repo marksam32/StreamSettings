@@ -6,9 +6,9 @@
     "ForeignExchangeRates",
     "LargeVanillaPassword",
     "CruelSimpleton",
-    "morseWoF",
-    "chineseCounting",
-    "SimonsSatire"
+    "SimonsSatire",
+    "blackArrowsModule",
+    "kataDeckCreating"
   ],
   "Operation": 1
 }
