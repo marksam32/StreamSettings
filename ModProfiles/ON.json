@@ -1,11 +1,10 @@
 {
   "DisabledList": [
-    "krazyTalk",
     "qkRepoSelector",
     "MultiverseHotline",
-    "CruelSimpleton",
     "rusticReversal",
-    "GSSatNav"
+    "GSSatNav",
+    "swippySwappy"
   ],
   "Operation": 1
 }

@@ -27025,6 +27025,22 @@
     "CameraPinningAlwaysAllowed": false
   },
   {
+    "moduleDisplayName": "Swippy Swappy",
+    "moduleID": "swippySwappy",
+    "scoreStringOverride": false,
+    "scoreString": null,
+    "announceModule": false,
+    "unclaimable": false,
+    "helpTextOverride": false,
+    "helpText": "Press the button using !{0} press/sorted.",
+    "manualCodeOverride": false,
+    "manualCode": null,
+    "statusLightPosition": "Default",
+    "validCommandsOverride": false,
+    "validCommands": null,
+    "CameraPinningAlwaysAllowed": false
+  },
+  {
     "moduleDisplayName": "Swish",
     "moduleID": "swish",
     "scoreStringOverride": false,
