@@ -314,6 +314,8 @@
     "NoVolt",
     "ON",
     "VSMode",
+    "NoBossModules",
+    "NoPseudoNeedy",
     "NoTimeNeedies",
     "No0",
     "NoOtherNeedies",
@@ -321,9 +323,7 @@
     "No1",
     "No2",
     "No3",
-    "No4",
-    "NoBossModules",
-    "NoPseudoNeedy"
+    "No4"
   ],
   "ToggleableModules": [],
   "BombCustomMessages": {

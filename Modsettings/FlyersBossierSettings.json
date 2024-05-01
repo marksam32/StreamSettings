@@ -18,5 +18,6 @@
   ],
   "SGTRequireAllStages": false,
   "PPUseAlternativeGen": false,
-  "PPPointsPerActivation": 2
+  "PPPointsPerActivation": 2,
+  "PPUse6x6Board": false
 }

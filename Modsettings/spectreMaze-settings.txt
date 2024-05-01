@@ -1,0 +1,1 @@
+{"TargetLayerCount":3,"LowerScoreBound":64,"UpperScoreBound":80,"Porosity":1}
