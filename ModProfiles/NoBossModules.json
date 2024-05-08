@@ -84,8 +84,10 @@
     "solveShift",
     "BlackoutModule",
     "hickoryDickoryDockModule",
+    "temporalSequence",
     "sbemailsongs",
-    "spectatorSport"
+    "spectatorSport",
+    "clearanceCodeModule"
   ],
   "Operation": 1
 }

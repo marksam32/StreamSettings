@@ -31,7 +31,9 @@
     "functionIdentification",
     "permutations",
     "GSCoincidence",
-    "blinker"
+    "blinker",
+    "GSYellowFace",
+    "swippySwappy"
   ],
   "Operation": 1
 }

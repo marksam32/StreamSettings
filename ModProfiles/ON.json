@@ -1,10 +1,7 @@
 {
   "DisabledList": [
-    "qkRepoSelector",
     "MultiverseHotline",
-    "rusticReversal",
-    "GSSatNav",
-    "swippySwappy"
+    "rusticReversal"
   ],
   "Operation": 1
 }

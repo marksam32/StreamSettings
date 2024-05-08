@@ -15,7 +15,8 @@
     "GhostModule",
     "repeatAgain",
     "channelSurfing",
-    "alarming"
+    "alarming",
+    "puppet"
   ],
   "Operation": 1
 }
