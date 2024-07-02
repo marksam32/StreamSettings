@@ -1,3 +1,4 @@
 {
-  "nonBossModeBlackArrows": false
+  "nonBossModeBlackArrows": false,
+  "legacyBlackArrows": false
 }
