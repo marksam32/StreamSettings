@@ -1,7 +1,5 @@
 {
   "DisabledList": [
-    "NeedyKnob",
-    "NeedyVentGas",
     "NeedyVentV2",
     "VentGasTranslated",
     "buttonMasherNeedy",
@@ -51,8 +49,8 @@
     "llamaLlamaAlpaca",
     "weekDays",
     "needyHotate",
-    "literallyMalding",
     "literallyDying",
+    "literallyMalding",
     "needy_coverage",
     "grayArrowsModule",
     "needy_consonants",

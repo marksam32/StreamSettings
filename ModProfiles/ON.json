@@ -1,14 +1,10 @@
 {
   "DisabledList": [
-    "MultiverseHotline",
-    "TDSDossierModifier",
-    "cannymaze",
     "marqueeMorseModule",
-    "kataCheatCheckout",
-    "threeNPlusOne",
     "robotProgramming",
-    "surveySays",
-    "keypass"
+    "roleReversal",
+    "caesarPsycho",
+    "undertunneling"
   ],
   "Operation": 1
 }
